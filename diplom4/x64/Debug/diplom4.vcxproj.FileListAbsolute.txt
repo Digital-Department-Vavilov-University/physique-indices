@@ -1,0 +1,5 @@
+G:\games\microsoft\diplom4\diplom4\x64\Debug\diplom4.vcxproj.AssemblyReference.cache
+G:\games\microsoft\diplom4\diplom4\x64\Debug\diplom4.vcxproj.SuggestedBindingRedirects.cache
+G:\games\microsoft\diplom4\diplom4\x64\Debug\diplom4.MyForm.resources
+G:\games\microsoft\diplom4\diplom4\x64\Debug\diplom4.vcxproj.GenerateResource.cache
+G:\games\microsoft\diplom4\diplom4\x64\Debug\diplom4.MyForm1.resources
